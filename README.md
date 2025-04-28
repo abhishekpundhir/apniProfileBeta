@@ -164,20 +164,4 @@ Home
 ├── Vision + Side Projects
 ├── Contact
 └── Resume
-Bonus Tip
-Domain Name Tip:
-If you want something unique + professional — you can buy domains like:
-
-abhisheksingh.dev
-
-singhabhishek.dev
-
-abhishek.codes
-
-abhishekbuilds.com
-
-(You can get these from Namecheap, Google Domains, or GoDaddy.)
-
-Would you also like me to create a starter folder structure + example code to kickstart the Next.js project if you want to begin building right away?
-It'll save you a lot of time. 🚀
-Should I proceed with that?
+--------------------------------------------------End--------------------------------------------------------------------------------
